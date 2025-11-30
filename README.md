@@ -1,2 +1,2 @@
 # python1
-New Learner in Python
+print("Hello World")
